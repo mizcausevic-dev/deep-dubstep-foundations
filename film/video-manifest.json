@@ -1,0 +1,26 @@
+{
+  "title": "Deep Dubstep Foundations",
+  "study": "dd01",
+  "bpm": 140,
+  "source_audio": "preview/deep-dubstep-foundations-simple-synth-preview.mp3",
+  "source_audio_sha256": "14cacc13bb55302da92859923c2167116563e207a73754a13d2514c4607c7233",
+  "source_midi": "midi/dd01-concrete-depth/dd01-concrete-depth-combined.mid",
+  "source_midi_sha256": "c2ba31254e43106780a06fc8a18a9245794a5d8a614d09ab533a16b0e1ebf184",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "4706ac1880c14599069514ecaf9b58a6eea0fa9d7ae554e82f274cbd20d50811",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "f736a9fcf7533d324bda28a3d999850f36633d38693bda9a535f422ed6b3317b",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "327274cd6f87104cceb784d4018d479d87ee07f5e65684d45722c0ae09a487be",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
