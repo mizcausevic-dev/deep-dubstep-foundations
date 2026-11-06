@@ -54,7 +54,7 @@
     {
       "path": "catalog/clip-index.csv",
       "bytes": 1916,
-      "sha256": "403cddea56224cbf94a034513b2dd96c7a5c2adcdd6c05a0da1e4a86f21ab296"
+      "sha256": "4a038c8d71058fabe3ec97420c45c3cec0b15f3fbf8784ab22e0dec1c89be60f"
     },
     {
       "path": "catalog/drum-map.csv",
@@ -113,83 +113,83 @@
     },
     {
       "path": "clips/dd01-bass-hook-01.mid",
-      "bytes": 182,
-      "sha256": "38b6463401d5159847cabc8d46ee83caa63f4dcf413d53f7ba21b0bc74691885"
+      "bytes": 169,
+      "sha256": "429fbbe06d3ec979b047b215a2f53df72a7db815648bf2dff0a03bd2e839d7cb"
     },
     {
       "path": "clips/dd01-bass-hook-02.mid",
-      "bytes": 182,
-      "sha256": "2c0a9136f050c7b834237d09285b32ccea7766e674befd9a657200b64d584ee9"
+      "bytes": 170,
+      "sha256": "42134fd399f6be839e2291a470b31ac675abb61ea968189002af0c35ca84149e"
     },
     {
       "path": "clips/dd01-bass-hook-03.mid",
-      "bytes": 182,
-      "sha256": "4ecb8ceec64f67dc6c786e4a0887cf13edd61e5624c7cdf83c346997caf35325"
+      "bytes": 169,
+      "sha256": "1a36c32ec0b3a42b6ab9391d8d4d2805eb04f3014c6d3eeda810e628940e6d50"
     },
     {
       "path": "clips/dd01-bass-hook-04.mid",
-      "bytes": 182,
-      "sha256": "8be540543707f7b78f1b0a8f38615eec4435e5d608077e40fa1f93befa1c0ba9"
+      "bytes": 169,
+      "sha256": "f241eabe048a536457523ea90f1cf4e45915e2d86d37d2bbdebd7a038ed70f58"
     },
     {
       "path": "clips/dd02-bass-hook-01.mid",
-      "bytes": 172,
-      "sha256": "6c2911ec4327828ad3288d3f201d465049677c7d0705f73eaeb8b1ed7c6a05e7"
+      "bytes": 169,
+      "sha256": "b0854c6d2a9d88406fad1a86e98e39157df7171f3cee64c313c0dfcea3ebc983"
     },
     {
       "path": "clips/dd02-bass-hook-02.mid",
-      "bytes": 172,
-      "sha256": "eea49ae8d90f0ad45ebbd5790958a011f1e97e9191905ec1be00ce844e585873"
+      "bytes": 170,
+      "sha256": "66e51e15d4f9680a57df856655e3df3d150b62d4045a74e1b6dee0accb2a2960"
     },
     {
       "path": "clips/dd02-bass-hook-03.mid",
-      "bytes": 172,
-      "sha256": "75ecd14e1a6c1005a19b62c5f7726fb5642920f31215502dd227188dfed8e748"
+      "bytes": 169,
+      "sha256": "e0ac451d3d558c864f46169ede017ae4fee005f987d9351d1138ba3cc9b68797"
     },
     {
       "path": "clips/dd02-bass-hook-04.mid",
-      "bytes": 172,
-      "sha256": "8d19d4c6812ec562aec940d96e51b427cbdb18caf0899969f017f909d0b3ad87"
+      "bytes": 169,
+      "sha256": "67f8e6ec9fc28c0565770626f63cedbe9db89f81dfae4c1380107b42b7d0887c"
     },
     {
       "path": "clips/dd03-bass-hook-01.mid",
-      "bytes": 172,
-      "sha256": "8f154657fb65460678513a96308cb31a3b3b69e02fad56e11af5e82a28c2dcc5"
+      "bytes": 169,
+      "sha256": "90eaf551e9a0b35a45d63325627030d426a9f60509037825815fc26fd80b6acf"
     },
     {
       "path": "clips/dd03-bass-hook-02.mid",
-      "bytes": 172,
-      "sha256": "520c1eb7f6c541a56d11afad65eb403a8832ab65faf84d8297ae06e8706cbdd3"
+      "bytes": 170,
+      "sha256": "56d039678060a55982359be11c8ca5e8a3ff9d62eaf43e48f645562ef6b57b39"
     },
     {
       "path": "clips/dd03-bass-hook-03.mid",
-      "bytes": 172,
-      "sha256": "89c1b881b665c3a06051ab3217beae6a609a9e4808a46fb0cd8c8a5b7487a635"
+      "bytes": 169,
+      "sha256": "052c07b67acbc79670ea1557c1d13ff6b463d292b2d9bac52ff9d62f6aeb4ea8"
     },
     {
       "path": "clips/dd03-bass-hook-04.mid",
-      "bytes": 172,
-      "sha256": "eebfc712312a84b0da618f18c5fa1b58225ce08ffe5bb1ba921c2f62d7a31152"
+      "bytes": 169,
+      "sha256": "3f5abc2f8734dc66a591916d754a22b556d62ac0075604dea0d36ac814c7411c"
     },
     {
       "path": "clips/dd04-bass-hook-01.mid",
-      "bytes": 172,
-      "sha256": "2eec9c1c2a1fce850e801ef554946926cd13560b8521b42e00a8d02548a80229"
+      "bytes": 169,
+      "sha256": "7e800c7daf24e2af6bab053af5da72916ffc6195deb876a2cf1e8e686b8719b6"
     },
     {
       "path": "clips/dd04-bass-hook-02.mid",
-      "bytes": 172,
-      "sha256": "75e74fb01001de2b474047624ae1c61439f89065225b344c013105b1da02b4e0"
+      "bytes": 170,
+      "sha256": "6af8be54c253e8ad1673a2966fe8ebbfac41ba5dd02c3ba1f1644c196737703b"
     },
     {
       "path": "clips/dd04-bass-hook-03.mid",
-      "bytes": 172,
-      "sha256": "15ab4406de32b1918e985fea9a5ec99c79a1cb140828acd394cdf55454be1f0e"
+      "bytes": 169,
+      "sha256": "8649da037930f81fb25f68572660ca98991b9d1b0057a9411e6e2b92c7ae0506"
     },
     {
       "path": "clips/dd04-bass-hook-04.mid",
-      "bytes": 172,
-      "sha256": "83c15f50dd10ecb768154978de50d4001bfe0b4eb3f26de00a9033460ad25caa"
+      "bytes": 169,
+      "sha256": "4b82daba52c84a0721131d76888d05f5ce5492080584d806a13364b3b9d9ab72"
     },
     {
       "path": "delivery.md",
@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/deep-dubstep-foundations-midi.zip",
-      "bytes": 26744,
-      "sha256": "0a7f5729ef1c3da9a41592915e56781d70a0623cc3679d374501dac956454752"
+      "bytes": 28416,
+      "sha256": "65b400f757cf9056e1ac13a0319eee80075256c0b1e8bada1fabff3a39c8b77d"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9585,
-      "sha256": "4ff52f546aaf00236f1328eab548443a51c0df23b5a134d115354c9d28383964"
+      "bytes": 9828,
+      "sha256": "871186cca655dac8fd096ad62806998292ce78310702605226fa7c20fa27b438"
     },
     {
       "path": "midi/dd01-concrete-depth/chord_pulse.mid",
@@ -388,8 +388,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 3909,
-      "sha256": "bf7dbaabe59b309b96a793315ee6c3ea0d24fd888888d69a3aa9f4ebf120eee5"
+      "bytes": 4068,
+      "sha256": "25a2d65eb0dc8e4bde7afb4ad008626f2688e7dc1378c5d62d78b3f018e5d779"
+    },
+    {
+      "path": "REVISION.md",
+      "bytes": 330,
+      "sha256": "b84a0d3a8d71335d54f45af43fef07b9e4563bd2917faab43119ca84c0524850"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -433,8 +438,8 @@
     },
     {
       "path": "tools/produce_clips.py",
-      "bytes": 7199,
-      "sha256": "a6f8b5893553e4d975feabda97a76b5e034afb715003c0eca808403f3be7aaee"
+      "bytes": 7963,
+      "sha256": "6bd4e1d6663def80857d357cfd5173276eb32f0045e20d7154ad9882c9d5f493"
     },
     {
       "path": "tools/render_motion_preview.py",
