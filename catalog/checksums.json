@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/deep-dubstep-foundations-midi.zip",
-      "bytes": 28416,
-      "sha256": "65b400f757cf9056e1ac13a0319eee80075256c0b1e8bada1fabff3a39c8b77d"
+      "bytes": 29403,
+      "sha256": "b0ee35ea490c265878f0e5b0b79a237a08d840b19c53aaf7b1a1733db958a406"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9828,
-      "sha256": "871186cca655dac8fd096ad62806998292ce78310702605226fa7c20fa27b438"
+      "bytes": 10018,
+      "sha256": "4ae608f4185d1f84dad9ae579062b01c84423278305f4673108f09952ea70c90"
     },
     {
       "path": "midi/dd01-concrete-depth/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "53beee74d84b1a2fb01a11a71dec141c8abb2193f1a31a03b07d9ba307015b4e"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/deep-dubstep-foundations-simple-synth-preview.mp3",
       "bytes": 1330408,
       "sha256": "14cacc13bb55302da92859923c2167116563e207a73754a13d2514c4607c7233"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4068,
-      "sha256": "25a2d65eb0dc8e4bde7afb4ad008626f2688e7dc1378c5d62d78b3f018e5d779"
+      "bytes": 4183,
+      "sha256": "ca4f0cc4e76c3aa5467df8356ac72099c5988d01fabfb1a6f45f1e5ca1a95e08"
     },
     {
       "path": "REVISION.md",
